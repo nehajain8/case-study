@@ -1,0 +1,53 @@
+/*Common styles of resume template */
+.leftDiv {
+    width: 37%;
+    background: lightgray;
+}
+
+.ResumeTemplate {
+    max-width: 940px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.rightDiv {
+    width: 63%;
+    padding: 15px; 
+}
+
+.rightDiv .title {
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+.rightDiv .description {
+    padding-bottom: 80px;   
+}
+.leftDiv .title {
+    padding: 15px;
+    background: gray;
+    color: white;
+    text-transform: uppercase;
+}
+
+.leftDiv .top {
+    height: 90%;
+}
+.leftDiv .description {
+    padding: 15px;
+    background: lightgray;
+}
+.leftDiv .middle .description ul {
+    padding-left: 15px;
+    word-wrap: break-word;
+}
+.leftDiv .top .description {
+    background: gray;
+    color: white;
+    height: 70%;
+    clip-path: polygon(0 0, 0% 100%, 190% 0%, 0% 0%, 0% 0);
+}
+.leftDiv #contact-details {
+    word-wrap: break-word;
+}

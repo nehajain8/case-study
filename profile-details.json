@@ -1,0 +1,26 @@
+{
+  "title":"Experienced UI developer with a demonstrated history of working in the IT and service industry",
+  "basicInformation":"Overall experience of 4 years 3 months Currently working as a UI developer in TCS. Good command on problem solving , data structures and algorithm",
+  "contactDetails": [
+    {"detail":"Contact - 7228814007"},
+    {"detail":"email id - jneha0802@gmail.com"}
+  ],
+  "personalityHighlights": [
+    {"detail":"Working as a frontend developer"},
+    {"detail":"Good knowledge of HTML,css,sass,C#"},
+    {"detail":"Good knowledge of Agile technology and Software Development cycle."}
+  ],
+  "education":[
+    {"detail":"V.V.P College (Gujarat Technological University) - B.E in Electronics & Communication"},
+    {"detail":"St. Mary’s School - 12th (GSEB)"},
+    {"detail":"St. Thomas School - 10th (GSEB)"}
+  ],
+  "professionalExp": [
+    {"detail1":"UI development & Support at TCS",
+    "detail2":" Designing of J&J websites in html , javascript , jquery , css and sass from the scratch as well as solving support ticket of existing websites. Ability to convert psd to html in pixel perfect manner. Also involve in image editing , extracting or optimizing using Photoshop and other image editing tools. Also create responsive pages using media queries of css and bootstrap which provide support for android phones , iphones and ipad. Build reusable code by using sass mixins and all the standard guidelines of sass."
+    },
+    {"detail1":"Senior software developer at IGATE",
+    "detail2":"Developed desktop application using .net technologies such as C# ,Application is able to give data of patient's vitals such as heart rate, blood pressure and pulse when connected to health monitoring device."
+    }
+  ]
+}
